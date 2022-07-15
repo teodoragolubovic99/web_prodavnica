@@ -1,0 +1,8 @@
+Podeliti terminal na 2 dela:
+
+U prvom delu kucati npm install
+U drugom delu prvo pristupiti frontendu pa onda npm install
+
+Nakon toga ucitati podatke na server strani uz pomoc komande node backend/seeder
+
+Nakon toga u oba terminala pozvati komandu npm start
